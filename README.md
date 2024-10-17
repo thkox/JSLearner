@@ -4,7 +4,7 @@
 
 The **JSLearner Mobile App** is a team assignment for creating an educational platform designed for the "Educational Software" course, offered in the 8th semester of the 2023-2024 academic year at the University of Piraeus, Department of Informatics. The app is an educational platform aimed at teaching JavaScript programming through a dynamic, interactive, and adaptive user interface. Developed using Kotlin and Jetpack Compose for Android, the app offers lessons, quizzes, and progress tracking to enhance learning for users at different skill levels. It supports beginners, intermediate learners, and advanced users by providing personalized content based on individual performance and progress.
 
-In order for the app to function correctly, it requires the [JSLearner Backend](https://github.com/thkox/JSLearner-backend), which manages user data, processes experience scores, and maintains leaderboards in real-time.
+In order for the app to function correctly, it requires the [JSLearner Backend](https://github.com/thkox/educational-software_2024-JSLearner-backend), which manages user data, processes experience scores, and maintains leaderboards in real-time.
 
 ## Course Information
 
