@@ -57,7 +57,25 @@ This project was developed for the "Educational Software" course in the 8th seme
 
 ## Screenshots
 
-- **Roadmap**
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/Roadmap.png" alt="Roadmap"/>
+      <br/>
+      <sub><b>Roadmap</b></sub>
+    </td>
+    <td align="center">
+      <img src="./images/FillinTheBlanks.png" alt="FillinTheBlanks"/>
+      <br/>
+      <sub><b>Question Example</b></sub>
+    </td>
+    <td align="center">
+      <img src="./images/LeaderboardScreen.png" alt="Leaderboard"/>
+      <br/>
+      <sub><b>Leaderboard</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 ## Related Repositories
