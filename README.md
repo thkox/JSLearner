@@ -55,6 +55,11 @@ This project was developed for the "Educational Software" course in the 8th seme
 3. Configure Firebase by adding the necessary credentials (Firebase configuration JSON).
 4. Build and run the app on an Android device or emulator.
 
+## Screenshots
+
+- **Roadmap**
+
+
 ## Related Repositories
 This project is part of a larger system, consisting of multiple repositories that work together to provide a complete application:
 
