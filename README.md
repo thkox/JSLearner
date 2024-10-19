@@ -8,8 +8,8 @@ In order for the app to function correctly, it requires the [JSLearner Backend](
 
 ## Course Information
 
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Educational Software (2024)
 - **Semester:** 8th
 
